@@ -4,7 +4,7 @@ PATH
     nd_foundation (0.1.0)
       foundation-rails (>= 6)
       rails (~> 4.2.9)
-      sass-rails (~> 5.0.0)
+      sass-rails
 
 GEM
   remote: https://rubygems.org/

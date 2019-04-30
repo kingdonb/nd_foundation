@@ -19,5 +19,5 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", "~> 4.2.9"
   s.add_dependency "foundation-rails", '>= 6'
-  s.add_dependency "sass-rails", '~> 5.0.0'
+  s.add_dependency "sass-rails"
 end
